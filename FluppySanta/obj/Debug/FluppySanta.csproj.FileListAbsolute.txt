@@ -1,0 +1,10 @@
+C:\Users\sandr\source\repos\FluppySanta\FluppySanta\bin\Debug\FluppySanta.exe.config
+C:\Users\sandr\source\repos\FluppySanta\FluppySanta\bin\Debug\FluppySanta.exe
+C:\Users\sandr\source\repos\FluppySanta\FluppySanta\bin\Debug\FluppySanta.pdb
+C:\Users\sandr\source\repos\FluppySanta\FluppySanta\obj\Debug\FluppySanta.csprojAssemblyReference.cache
+C:\Users\sandr\source\repos\FluppySanta\FluppySanta\obj\Debug\FluppySanta.Form1.resources
+C:\Users\sandr\source\repos\FluppySanta\FluppySanta\obj\Debug\FluppySanta.Properties.Resources.resources
+C:\Users\sandr\source\repos\FluppySanta\FluppySanta\obj\Debug\FluppySanta.csproj.GenerateResource.cache
+C:\Users\sandr\source\repos\FluppySanta\FluppySanta\obj\Debug\FluppySanta.csproj.CoreCompileInputs.cache
+C:\Users\sandr\source\repos\FluppySanta\FluppySanta\obj\Debug\FluppySanta.exe
+C:\Users\sandr\source\repos\FluppySanta\FluppySanta\obj\Debug\FluppySanta.pdb
